@@ -79,11 +79,20 @@ Ele não é um sistema médico oficial de hospital! 🙏 É uma forma de aprende
 
 ## Prints do Projeto Rodando! 📸
 
-Aqui você deve inserir as imagens para mostrar o projeto em ação. Tire prints do console do Colab durante a execução!
+![image](https://github.com/user-attachments/assets/e35ca836-6e87-4b4e-8295-eedabcc1f710)
+
+
 
 **1. Coletando os Dados do Paciente:**
 
-*(Substitua a linha abaixo pelo código Markdown para sua imagem. Ex: `![Coleta de Dados](caminho/para/sua/imagem1.png)`)*
+![image](https://github.com/user-attachments/assets/6e99a3f9-98a6-4132-9fc5-09f4c17a8bb1)
+
+
+![image](https://github.com/user-attachments/assets/19ba7c81-e9de-45bc-b029-250e97db87fb)
+
+![image](https://github.com/user-attachments/assets/2843a71d-cc96-4d78-8efb-cb9051bcf3ba)
+
+![image](https://github.com/user-attachments/assets/b9e74245-9b60-41f3-b74a-fd7cb4e6d135)
 
 ```markdown
 ![Coleta de Dados e Input](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/caminho/para/sua/imagem_input.png)
