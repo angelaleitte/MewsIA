@@ -95,4 +95,4 @@ Ele não é um sistema médico oficial de hospital! 🙏 É uma forma de aprende
 ![image](https://github.com/user-attachments/assets/b9e74245-9b60-41f3-b74a-fd7cb4e6d135)
 
 ```markdown
-![Coleta de Dados e Input](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/caminho/para/sua/imagem_input.png)
+
